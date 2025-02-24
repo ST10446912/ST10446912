@@ -1,10 +1,41 @@
-- 👋 Hi, I’m @ST10446912
-- 👀 I’m interested in Computers
-- 🌱 I’m currently learning Degree in Information Technology
-- 📫 How to reach me email me 
-- ⚡ Fun fact: I can Hack you!!!
+# 👋 Hello, I'm ST10446912
 
-<!---
-ST10446912/ST10446912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm passionate about software development and continuously learning new technologies. Here’s a little bit about me:
+
+## 🛠 Technologies & Tools
+
+- **Languages:** JavaScript, Python, Java, C++
+- **Frameworks:** React, Node.js, Django, Spring Boot
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, Kubernetes, Jenkins
+
+## 🌱 Currently Learning
+
+- Advanced Kubernetes
+- Machine Learning with Python
+- Cloud Computing (AWS)
+
+## 📈 GitHub Stats
+
+![ST10446912's GitHub stats](https://github-readme-stats.vercel.app/api?username=ST10446912&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+
+- **Email:** ST10446912@example.com
+- **LinkedIn:** [linkedin.com/in/ST10446912](https://linkedin.com/in/ST10446912)
+
+## 🎯 Goals for 2025
+
+- Contribute to open-source projects
+- Build a personal project using AI/ML
+- Obtain AWS Solutions Architect certification
+
+## ⚡ Fun Facts
+
+- I love solving puzzles and playing chess.
+- I'm an avid reader of science fiction novels.
+- I enjoy hiking and exploring nature.
+
+Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you’d like to collaborate.
+
+```
