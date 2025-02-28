@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm passionate about software development and cont
 ## ⚡ Fun Facts
 
 - I love solving puzzles and playing chess.
-- I enjou building Gaming Pc's
+- I enjoy building Gaming Pc's
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you’d like to collaborate.
 
