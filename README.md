@@ -5,13 +5,12 @@ Welcome to my GitHub profile! I'm passionate about software development and cont
 ## 🛠 Technologies & Tools
 
 - **Languages:** JavaScript, Python, Java, C++,Typescript 
-- **Frameworks:** React, Node.js, Django, Spring Boot
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Frameworks:** React, Node.js
+- **Databases:** MySQL
+- **Tools:** Git
 
 ## 🌱 Currently Learning
 
-- Advanced Kubernetes
 - Machine Learning with Python
 - Cloud Computing (AWS)
 
