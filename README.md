@@ -1,4 +1,4 @@
-# 👋 Hello, I'm ST10446912
+# 👋 Hello, I'm Faraaz Mahomed (ST10446912)
 
 Welcome to my GitHub profile! I'm passionate about software development and continuously learning new technologies. Here’s a little bit about me:
 
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm passionate about software development and cont
 
 ## 📫 How to reach me
 
-- **Email:** ST10446912@example.com
+- **Email:** ST10446912@myemeris.edu.za
 - **LinkedIn:** [linkedin.com/in/ST10446912](https://linkedin.com/in/ST10446912)
 
 ## 🎯 Goals for 2025
