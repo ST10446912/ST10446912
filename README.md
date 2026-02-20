@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about software development and cont
 - **Email:** ST10446912@myemeris.edu.za
 - **LinkedIn:** [linkedin.com/in/ST10446912](https://linkedin.com/in/ST10446912)
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 - Contribute to open-source projects
 - Build a personal project using AI/ML
