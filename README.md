@@ -1,39 +1,52 @@
-# 👋 Hello, I'm Faraaz Mahomed (ST10446912)
 
-Welcome to my GitHub profile! I'm passionate about software development and continuously learning new technologies. Here’s a little bit about me:
 
-## 🛠 Technologies & Tools
+👋 Hi, I'm Faraaz Mahomed (ST10446912)
 
-- **Languages:** JavaScript, Python, Java, C++,Typescript 
-- **Frameworks:** React, Node.js
-- **Databases:** MySQL
-- **Tools:** Git
+💻 IT Student | Aspiring Software & Cloud Developer
 
-## 🌱 Currently Learning
+Welcome to my GitHub profile!
 
-- Machine Learning with Python
-- Cloud Computing (AWS)
+I'm an IT student with a strong interest in software development, problem-solving, and emerging technologies. I enjoy building projects, exploring new tools, and continuously expanding my technical skill set.
 
-## 📈 GitHub Stats
 
-![ST10446912's GitHub stats](https://github-readme-stats.vercel.app/api?username=ST10446912&show_icons=true&theme=radical)
+---
 
-## 📫 How to reach me
+🚀 Tech Stack
 
-- **Email:** ST10446912@myemeris.edu.za
-- **LinkedIn:** [linkedin.com/in/ST10446912](https://linkedin.com/in/ST10446912)
+Languages
+JavaScript • TypeScript  • Java • C#
 
-## 🎯 Goals for 2026
+Frameworks & Libraries
+React • Node.js
 
-- Contribute to open-source projects
-- Build a personal project using AI/ML
-- Obtain AWS Solutions Architect certification
+Database Technologies
+MySQL
 
-## ⚡ Fun Facts
+Tools & Technologies
+Git • GitHub
 
-- I love solving puzzles and playing chess.
-- I enjoy building Gaming Pc's
 
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you’d like to collaborate.
+---
 
-```
+
+📊 GitHub Activity
+
+
+
+
+---
+
+📫 Connect With Me
+
+Email
+ST10446912@myemeris.edu.za
+
+LinkedIn
+https://linkedin.com/in/ST10446912
+
+
+---
+
+Thanks for stopping by!
+Feel free to explore my repositories or reach out if you'd like to collaborate.
+
